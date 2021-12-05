@@ -2,7 +2,6 @@
 
 int main()
 {
-  int shibal=5;
   printf("Hello World");
 
   printf("What the hell is this");
